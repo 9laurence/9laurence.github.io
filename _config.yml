@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Paulo G. Laurence"
+description: "Academic webpage of Paulo G. Laurence, Ph.D."
 baseurl: ""
 url: ""
 
