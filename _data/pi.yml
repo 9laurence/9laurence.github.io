@@ -4,8 +4,20 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  - "(2026) B.Ed. Pedagogy, UNINTER International University Center"
+  - "(2024) Visiting Postdoctoral Researcher, University of California, Davis"
+  - "(2022–2024) Postdoctoral Fellow in Human Developmental Sciences, Mackenzie Presbyterian University"
+  - "(2021) Ph.D. Developmental Disorders, Mackenzie Presbyterian University"
+  - "(2020–2021) Visiting Doctoral Researcher, University of California, Berkeley"
+  - "(2018) M.Sc. Developmental Disorders, Mackenzie Presbyterian University"
+  - "(2016) B.Sc. Biological Sciences, Mackenzie Presbyterian University"
+  - "(2015) Teaching Degree in Biological Sciences, Mackenzie Presbyterian University"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+  - "(2026) B.Ed. Pedagogy"
+  - "(2024) Visiting Postdoctoral Researcher, UC Davis"
+  - "(2022–2024) Postdoctoral Fellow, Mackenzie"
+  - "(2021) Ph.D. Developmental Disorders, Mackenzie"
+  - "(2020–2021) Visiting Doctoral Researcher, UC Berkeley"
+  - "(2018) M.Sc. Developmental Disorders, Mackenzie"
+  - "(2016) B.Sc. Biological Sciences"
+  - "(2015) Teaching Degree in Biological Sciences"
