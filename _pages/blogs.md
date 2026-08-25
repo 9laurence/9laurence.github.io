@@ -6,7 +6,7 @@ permalink: /blogs/
 ---
 
 ## Blog
-
+<!--
 {% if site.posts.size > 0 %}
 <div class="section-card" markdown="0">
 {% for post in site.posts %}
@@ -19,3 +19,6 @@ permalink: /blogs/
 {% else %}
 <p class="text-muted">No blog posts yet.</p>
 {% endif %}
+-->
+
+<p class="text-muted">No blog posts yet.</p>
